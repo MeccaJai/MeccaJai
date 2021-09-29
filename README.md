@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mecca!
-- 👀 I’m interested in Full Stack Engineering.
+- 👀 I’m interested in Web Design and Back-End Engineering.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
 - 📫  You can reach me by🎵 ...
