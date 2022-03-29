@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design and Back-End Engineering.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
-- 📫  You can reach me by🎵 ...
+- 📫  You can reach me by ...
       Email: Mecca.thornton@gmail.com
 
 <!---
